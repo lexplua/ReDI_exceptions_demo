@@ -1,0 +1,57 @@
+{
+    "1": {
+        "amount": 1.0,
+        "category": "Essentials",
+        "details": ",'.pp',"
+    },
+    "2": {
+        "amount": 3.0,
+        "category": "Essentials",
+        "details": ""
+    },
+    "3": {
+        "amount": 213.0,
+        "category": "Essentials",
+        "details": ""
+    },
+    "4": {
+        "amount": 0.0,
+        "category": "Essentials",
+        "details": ",.p,.p"
+    },
+    "5": {
+        "amount": 1.0,
+        "category": "Essentials",
+        "details": "Netflix"
+    },
+    "6": {
+        "amount": 3.05,
+        "category": "Essentials",
+        "details": "',.p',.p"
+    },
+    "7": {
+        "amount": 3.0,
+        "category": "Entertainment",
+        "details": "',.',."
+    },
+    "8": {
+        "amount": 34.0,
+        "category": "Essentials",
+        "details": ""
+    },
+    "9": {
+        "amount": 44.0,
+        "category": "Charity",
+        "details": ""
+    },
+    "10": {
+        "amount": 0.0,
+        "category": "Essentials",
+        "details": ""
+    },
+    "11": {
+        "amount": 0.0,
+        "category": "Charity",
+        "details": ""
+    }
+}
