@@ -11,7 +11,7 @@ class Categories(enum.Enum):
 
 def get_datasource() -> Path:
     # TODO: Exercise: what could go wrong ?
-    return Path.cwd() / 'data' / 'budget.json'
+    return Path.cwd() / 'data' / 'budjet.json'
 
 
 def read(path: Path) -> dict:
